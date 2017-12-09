@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"AppBar"
+			],
+			[
+				"p",
+				"props"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"el",
+				"elementId"
+			],
+			[
+				"con",
+				"contentContain"
+			],
+			[
+				"getc",
+				"getcontentContainHieght"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ge",
+				"genminHeightvar"
+			],
+			[
+				"aut",
+				"autoHeightMin"
+			],
+			[
+				"content",
+				"contentContain"
+			],
+			[
+				"autoH",
+				"autoHeightMax"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"handle",
+				"handleOpen"
+			],
+			[
+				"loginF",
+				"loginFail"
+			],
+			[
+				"im",
+				"imageUpload"
+			],
+			[
+				"urlC",
+				"urlCreate"
+			],
+			[
+				"url",
+				"urlCreate"
+			],
+			[
+				"image",
+				"imageUpload"
+			],
+			[
+				"on",
+				"onUpload"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"curr",
+				"currUser"
+			],
+			[
+				"Drop",
+				"Dropzone"
+			],
+			[
+				"open",
+				"openErrPop"
+			],
+			[
+				"close",
+				"closePop"
+			],
+			[
+				"Food",
+				"FoodView"
+			],
+			[
+				"foo",
+				"foodItem"
+			],
+			[
+				"step",
+				"stepIndex"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"Regi",
+				"RegisterForm"
+			],
+			[
+				"user",
+				"userAccounts"
+			],
+			[
+				"ha",
+				"haveAcc"
+			],
+			[
+				"err",
+				"errPopMess"
+			],
+			[
+				"login",
+				"loginFail"
+			],
+			[
+				"c",
+				"cryptic"
+			],
+			[
+				"hash",
+				"hashPass"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"get",
+				"getPasswordString"
+			],
+			[
+				"by",
+				"bcryptjs"
+			],
+			[
+				"have",
+				"haveAccSwitch"
+			],
+			[
+				"R",
+				"RaisedButton"
+			],
+			[
+				"log",
+				"logIn"
+			],
+			[
+				"rL",
+				"rLang"
+			],
+			[
+				"item",
+				"itemId"
+			],
+			[
+				"pr",
+				"prvUsr"
+			],
+			[
+				"co",
+				"commentText"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"claim",
+				"claimTxt"
+			],
+			[
+				"del",
+				"deleteThisItem"
+			],
+			[
+				"han",
+				"handleOpenImg"
+			],
+			[
+				"img",
+				"imgURL"
+			],
+			[
+				"food",
+				"foodTit"
+			],
+			[
+				"ex",
+				"expander"
+			],
+			[
+				"m",
+				"messLink"
+			],
+			[
+				"mess",
+				"messLink"
+			],
+			[
+				"Ch",
+				"openChat"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"re",
+				"requireAuth"
+			],
+			[
+				"g",
+				"geometry"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"lat",
+				"latlngTest"
+			],
+			[
+				"la",
+				"latlngTest"
+			],
+			[
+				"latlng",
+				"latlngTest"
+			],
+			[
+				"Google",
+				"GoogleMap"
+			],
+			[
+				"loca",
+				"locations"
+			],
+			[
+				"render",
+				"renderList"
+			],
+			[
+				"ren",
+				"renderList"
+			],
+			[
+				"mark",
+				"markPos"
+			],
+			[
+				"comen",
+				"commenter"
+			],
+			[
+				"comment",
+				"comments"
+			],
+			[
+				"scro",
+				"scrollBot"
+			],
+			[
+				"scroll",
+				"scrollBottom"
+			],
+			[
+				"desc",
+				"descLengths"
+			],
+			[
+				"i",
+				"imgInp"
+			],
+			[
+				"fd",
+				"fdDsc"
+			],
+			[
+				"slide",
+				"slideIndex"
+			],
+			[
+				"sl",
+				"slideIndex"
+			],
+			[
+				"Sw",
+				"SwipeableViews"
+			],
+			[
+				"Gri",
+				"GridTile"
+			],
+			[
+				"chat",
+				"chatName"
+			],
+			[
+				"mes",
+				"messagedUsername"
+			],
+			[
+				"bou",
+				"boundPrt"
+			],
+			[
+				"boun",
+				"boundName"
+			],
+			[
+				"expan",
+				"exapandable"
+			],
+			[
+				"card",
+				"CardText"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"CardT",
+				"CardText"
+			],
+			[
+				"Car",
+				"CardMeida"
+			],
+			[
+				"po",
+				"portionSelect"
+			],
+			[
+				"fileno",
+				"fileNoInc"
+			],
+			[
+				"fileNo",
+				"fileNoInc"
+			],
+			[
+				"down",
+				"downloadUrl"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<html>\n<head>\n\t<link rel=\"stylesheet\" href=\"CV.css\">\n<title>\nGeorge's CV\n</title>\n</head>\n<body>\n\n\n\n\n\t<div className=\"phone\">\n\t\t<div className=\"container\">\n        </div>\n    </div>\n</body>\n</html>",
+			"file": "CV.html",
+			"file_size": 0,
+			"file_write_time": 131571211660009110,
+			"settings":
+			{
+				"buffer_size": 197,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".phone{\n  position:absolute;\n  left:0; right:0;\n  top:0; bottom:0;\n  margin:auto;\n  height: 737px;\n  width: 654px;\n  background-image: url(\"/imgs/phone.png\");\n}\n.container {\n   position:absolute;\n   left:0; right:0;\n   top:0; bottom:0;\n   margin:auto;\n   height: 532px;\n   width: 345px;\n   border:1px solid #000000;\n   -webkit-border-radius: 5px;\n   border-radius: 5px;\n }",
+			"file": "CV.css",
+			"file_size": 0,
+			"file_write_time": 131571214238392880,
+			"settings":
+			{
+				"buffer_size": 372,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Production/CV"
+	],
+	"file_history":
+	[
+		"/C/Production/foodsharing-production/imports/ui/components/AppHeader.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/ImageItemGrid.jsx",
+		"/C/Production/foodsharing-production/client/main.html",
+		"/C/Production/foodsharing-production/imports/ui/components/MessageCentreButton.jsx",
+		"/C/Production/foodsharing-production/client/main.css",
+		"/C/Production/foodsharing-production/imports/ui/components/MapView.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/ItemCreation.jsx",
+		"/C/Production/foodsharing-production/imports/startup/server/test-data.js",
+		"/C/Production/foodsharing-production/imports/ui/components/UserAccountsRegister.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/UserAccounts.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/TransactionCompleteButton.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/TimeSince.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Requests.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/RequestedItem.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/RejectRequest.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/RegisterForm.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/PrivateChatDrawer.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/PhotoUpload.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/NumberOptions.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Tools/circleloadingSmall.js",
+		"/C/Production/foodsharing-production/imports/ui/components/MessageCentreMessages.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/MessageCentre.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/ImagePopOverButton.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/GridListTab.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/GoogleMap.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/CommentSystem.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Comments.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Comment.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/ClaimsButton.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/ClaimControl.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/AddLocation.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/AddItem.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/AcceptedItem.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/AcceptRequest.jsx",
+		"/C/Production/foodsharing-production/package.json",
+		"/C/Production/foodsharing-production/imports/ui/components/FoodItemList.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/FoodItemComments.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/ItemsShared.jsx",
+		"/C/Production/foodsharing-production/client/main.js",
+		"/C/Production/foodsharing-production/imports/startup/client/routes.jsx",
+		"/C/Production/foodsharing-production/node_modules/react-spinner-material/webpack.config.js",
+		"/C/Production/foodsharing-production/node_modules/react-custom-scrollbars/.babelrc",
+		"/C/Production/foodsharing-production/node_modules/react-dropzone/.babelrc",
+		"/C/Production/foodsharing-production/node_modules/attr-accept/.babelrc",
+		"/C/Production/foodsharing-production/node_modules/faker/build/gulpfile.js",
+		"/C/Production/foodsharing-production/node_modules/react-dropzone/webpack.config.js",
+		"/C/Production/foodsharing-production/development.json",
+		"/C/Production/gitignore stuff to add/development.json",
+		"/C/Production/foodsharing-production/DOCS.txt",
+		"/C/Production/foodsharing-production/imports/ui/components/Tools/circleloading.js",
+		"/C/Production/foodsharing-production/imports/ui/components/GoogleMapAdd.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/PrivateChat.jsx",
+		"/C/Production/foodsharing-production/node_modules/material-ui/CircularProgress/CircularProgress.js",
+		"/C/Production/foodsharing-production/.meteor/local/dev_bundle/lib/node_modules/sqlite3/node_modules/node-pre-gyp/lib/install.js",
+		"/C/Production/foodsharing-production/.git/.COMMIT_EDITMSG.swp",
+		"/C/Production/foodsharing-production/foodsharing-production/imports/ui/components/ItemsShared.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Tools/PopUp.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/userAccounts.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Images/PhotoUpload.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/userAccountsRegister.jsx",
+		"/C/Dev/foodshare/PhotoUpload.jsx",
+		"/C/Dev/foodshare/userAccountsRegister.jsx",
+		"/C/Dev/foodshare/userAccounts.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Login/userAccountsRegister.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/Login/userAccounts.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/FoodView.jsx",
+		"/C/Production/foodsharing-production/imports/ui/components/AppHeader/AppHeader.jsx",
+		"/C/Production/foodsharing-production/.meteor/packages",
+		"/C/Production/foodsharing-production/imports/ui/containers/MapViewContainer.jsx",
+		"/C/Dev/foodshare/AddItem.jsx",
+		"/C/Dev/foodshare/FoodView.jsx",
+		"/C/Dev/foodshare/foodshare.jsx",
+		"/C/Dev/foodshare/foodshare.css",
+		"/C/Dev/foodshare/AppHeader.jsx",
+		"/C/Dev/foodshare/client/login.js",
+		"/C/Dev/foodshare/server/login.js",
+		"/C/Users/Edinburgh Student/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Dev/foodshare/login.jsx",
+		"/C/Users/Edinburgh Student/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Dev/foodshare/PrivateChat.jsx",
+		"/C/Dev/foodshare/FoodItems.jsx",
+		"/C/Dev/foodshare/Comment.jsx",
+		"/C/Dev/foodshare/GridPicView.jsx",
+		"/C/Dev/foodshare/NumberOptions.jsx",
+		"/C/Dev/foodshare/ClaimControl.jsx",
+		"/C/Dev/foodshare/Request.jsx",
+		"/C/Dev/foodshare/Shit to do.txt",
+		"/C/Dev/foodshare/ItemView.jsx",
+		"/C/Dev/foodshare/TO DO NEXT",
+		"/C/Dev/foodshare/YourItems.jsx",
+		"/C/Dev/foodshare/GoogleMap.jsx",
+		"/C/Dev/foodshare/ItemCreation.jsx",
+		"/C/Dev/foodshare/MessageBar.jsx",
+		"/C/Dev/foodshare/GridListTab.jsx",
+		"/C/Dev/foodshare/AuthenticatedApp.jsx",
+		"/C/Dev/foodshare/foodshare.html",
+		"/C/Dev/foodshare/AddLocation.jsx",
+		"/C/Dev/foodshare/MapView.jsx",
+		"/C/Dev/foodshare/GoogleMaps.jsx",
+		"/C/Dev/foodshare/GridView.jsx",
+		"/C/Dev/foodshare/TimeSince.jsx",
+		"/C/Dev/foodshare/settings.json",
+		"/C/Users/Edinburgh Student/Apps/foodshare/ClaimControl.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/foodshare.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/PrivateChat.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/ItemCreation.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/AppHeader.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/FoodItems.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/FoodView.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/Request.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/login.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/AccountsWrap.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/ItemView.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/NumberOptions.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/foodshare.css",
+		"/C/Users/Edinburgh Student/Apps/foodshare/MapView.jsx",
+		"/C/Users/Edinburgh Student/Apps/foodshare/.meteor/packages",
+		"/C/Users/Edinburgh Student/AppData/Local/.meteor/packages/meteor-tool/1.1.10/mt-os.windows.x86_32/dev_bundle/server-lib/node_modules/fibers/future.js",
+		"/C/Users/Edinburgh Student/Apps/foodshare/lib/config/app.browserify.js.cached"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+			"-*/.meteor/*",
+			"C:\\Production\\foodsharing-production\\-*/.meteor/*",
+			"-*.meteor",
+			"-*C:\\Production\\foodsharing-production\\.meteor",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loading...",
+			"loading",
+			"Please complete this section before moving on.",
+			"-webkit-justify-content",
+			"container",
+			"spinner",
+			"Loading",
+			"fillDivNoScroll",
+			"window",
+			"contentContain",
+			"class=\"fillDivNoScroll\"",
+			"\"HEAD\"",
+			"HEAD",
+			"<<<<<<< HEAD",
+			"HEAD",
+			"AccountsUIWrapper",
+			"<<<<<<< HEAD",
+			"HEAD",
+			"LogoName",
+			"background-image",
+			"background image",
+			"html",
+			"contentCon",
+			"max-height:200px",
+			"max-height: 200px",
+			"max-height: 200px;",
+			"    min-height: 0px;\n    max-height: 200px;",
+			"$0",
+			"Fill this in for each item in your picture! ",
+			"position: relative",
+			"height:200px",
+			"height: 200px",
+			"var React = require('react/addons');",
+			"appBundler.external(dep);",
+			"(options.development ? dependencies : []).forEach(function (dep) {\nappBundler.external(dep);\n});",
+			"onClick",
+			"loading",
+			"className",
+			"Fill this in for each item in your picture!",
+			"Fill this in for each item in your picture! We need the weight to continue to get our funding, please help us!",
+			"ontou",
+			"loading",
+			"circular",
+			"loading...",
+			"_this2.test",
+			"link",
+			"innerWidth",
+			"FoodItemList",
+			"comments",
+			"FoodItemList",
+			".html",
+			"muiTheme",
+			"prepareStyles",
+			"login",
+			"handleActiveTab",
+			"bcrypt",
+			"img",
+			"props",
+			"ActionSc",
+			"Fla",
+			"targetOrigin",
+			"sytle",
+			"targetOrigin",
+			"el.",
+			"el",
+			"paper",
+			"CommunicationForum",
+			"Request",
+			"ClaimControl",
+			"google.load",
+			"addEventListener",
+			"This is where the location will be uploaded",
+			"this is where the map",
+			"api",
+			"getElementById",
+			"\"http://bed56888308e93972c04-0dfc23b7b97881dee012a129d9518bae.r34.cf1.rackcdn.com/sites/default/files/veggie-heart.jpg\"",
+			"http://thesocialmediamonthly.com/wp-content/uploads/2015/08/photo.png",
+			"this.state.fileNo",
+			"fileNo",
+			"openLogout",
+			"style",
+			"_current",
+			"initializeTouchEvents",
+			"MUI"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"handleRoute"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CV.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CV.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CV.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
