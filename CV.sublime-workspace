@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"b",
+				"background-color"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
 				"A",
 				"AppBar"
 			],
@@ -138,10 +150,6 @@
 			[
 				"login",
 				"loginFail"
-			],
-			[
-				"c",
-				"cryptic"
 			],
 			[
 				"hash",
@@ -391,30 +399,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "<html>\n<head>\n\t<link rel=\"stylesheet\" href=\"CV.css\">\n<title>\nGeorge's CV\n</title>\n</head>\n<body>\n\n\n\n\n\t<div className=\"phone\">\n\t\t<div className=\"container\">\n        </div>\n    </div>\n</body>\n</html>",
-			"file": "CV.html",
-			"file_size": 0,
-			"file_write_time": 131571211660009110,
-			"settings":
-			{
-				"buffer_size": 197,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": ".phone{\n  position:absolute;\n  left:0; right:0;\n  top:0; bottom:0;\n  margin:auto;\n  height: 737px;\n  width: 654px;\n  background-image: url(\"/imgs/phone.png\");\n}\n.container {\n   position:absolute;\n   left:0; right:0;\n   top:0; bottom:0;\n   margin:auto;\n   height: 532px;\n   width: 345px;\n   border:1px solid #000000;\n   -webkit-border-radius: 5px;\n   border-radius: 5px;\n }",
-			"file": "CV.css",
-			"file_size": 0,
-			"file_write_time": 131571214238392880,
-			"settings":
-			{
-				"buffer_size": 372,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -465,6 +449,9 @@
 	],
 	"file_history":
 	[
+		"/C/Production/foodsharing-production/imports/ui/components/AcceptedItem.jsx",
+		"/C/Production/CV/CV.html",
+		"/C/Production/CV/CV.css",
 		"/C/Production/foodsharing-production/imports/ui/components/AppHeader.jsx",
 		"/C/Production/foodsharing-production/imports/ui/components/ImageItemGrid.jsx",
 		"/C/Production/foodsharing-production/client/main.html",
@@ -497,7 +484,6 @@
 		"/C/Production/foodsharing-production/imports/ui/components/ClaimControl.jsx",
 		"/C/Production/foodsharing-production/imports/ui/components/AddLocation.jsx",
 		"/C/Production/foodsharing-production/imports/ui/components/AddItem.jsx",
-		"/C/Production/foodsharing-production/imports/ui/components/AcceptedItem.jsx",
 		"/C/Production/foodsharing-production/imports/ui/components/AcceptRequest.jsx",
 		"/C/Production/foodsharing-production/package.json",
 		"/C/Production/foodsharing-production/imports/ui/components/FoodItemList.jsx",
@@ -710,65 +696,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "CV.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16,
-								16
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "CV.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 372,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								161,
-								161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

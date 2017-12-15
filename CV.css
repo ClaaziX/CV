@@ -1,10 +1,10 @@
 /*live at http://soupedupkitchencom.fatcow.com/CV/CV.html*/
 
-.phone {
+.phone{
   margin: auto;
   height: 737px;
   width: 654px;
-  background-image: url("/imgs/phone.png");
+  background-image: url("imgs/phone.png");
   position: fixed;
   top: 55%;
   left: 55%;
@@ -12,15 +12,19 @@
   background-repeat: no-repeat;
 }
 
-iframe {
-  width: 350px;
-  /* adjust to your needs */
-  max-width: 100%;
-  /* to make it responsive */
+.deets{
+  font-family: helvetica;
+  position: fixed;
+  top: 95%;
+  left: 35%;
+  color: darkblue;
+}
+a {
+    color: darkblue;
 }
 
-body {
-  background-image: url("/imgs/CV.png");
+body{
+  background-image: url("imgs/CV.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin: 0;
